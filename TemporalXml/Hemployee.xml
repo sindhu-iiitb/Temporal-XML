@@ -1,0 +1,42 @@
+<employees tstart="1995-01-01" tend="2016-04-27">
+    <employee tstart="1995-01-01" tend="2016-04-27">
+        <id tstart="1995-01-01" tend="9999-12-31">1001</id>
+        <name tstart="1995-01-01" tend="9999-12-31">Bob1</name>
+        <title tstart="1995-01-01" tend="1995-01-04">Engineer</title>
+        <title tstart="1995-01-05" tend="9999-12-31">Engineer1</title>
+        <deptno tstart="1995-01-01" tend="1995-01-01">d01</deptno>
+        <salary tstart="1995-01-01" tend="1995-01-01">60000</salary>
+        <address tend="1995-03-01" tstart="1995-02-01" type="home">
+            <fname tend=" 9999-12-31" tstart="1995-03-02">George</fname>
+            <lname tend=" 9999-12-31" tstart="1995-02-01">Washington</lname>
+        </address>
+    </employee>
+    <employee tstart="1995-01-01" tend="2016-04-27">
+        <id tstart="1995-01-01" tend="9999-12-31">1002</id>
+        <name tstart="1995-01-01" tend="1995-01-07">Bob2</name>
+        <name tstart="1995-01-08" tend="9999-12-31">Bob2</name>
+        <title tstart="1995-01-01" tend="9999-12-31">Engineer</title>
+        <salary tstart="1995-04-26" tend="9999-12-31">60000</salary>
+        <deptno tstart="1995-01-01" tend="9999-12-31">d02</deptno>
+        <address tend=" 9999-12-31" tstart=" 2016-04-28" type="home">
+            <fname tend=" 9999-12-31" tstart=" 2016-04-28">George</fname>
+            <lname tend=" 9999-12-31" tstart=" 2016-04-28">Washington</lname>
+        </address>
+    </employee>
+    <employee tstart="1995-01-01" tend="1995-01-03">
+        <id tstart="1995-01-01" tend="9999-12-31">1003</id>
+        <name tstart="1995-01-01" tend="9999-12-31">Bob3</name>
+        <title tstart="1995-01-01" tend="1995-01-02">Engineer</title>
+        <title tstart="1995-01-03" tend="9999-12-31">Engineer</title>
+        <salary tstart="1995-01-01" tend="9999-12-31">60000</salary>
+        <deptno tstart="1995-01-01" tend="9999-12-31">d03</deptno>
+        <address tend="1995-01-03" tstart="1995-01-01" type="home">
+            <fname tend=" 9999-12-31" tstart=" 1995-01-04">George1</fname>
+            <fname tend=" 1995-01-03" tstart=" 1995-01-01">George</fname>
+            <address tend="1995-01-03" tstart="1995-01-01" type="home">
+                <fname tend=" 9999-12-31" tstart=" 1995-01-04">George1</fname>
+                <fname tend=" 1995-01-03" tstart=" 1995-01-01">George</fname>
+            </address>
+        </address>
+    </employee>
+</employees>
